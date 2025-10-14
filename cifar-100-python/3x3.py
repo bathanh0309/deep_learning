@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-# 1. Dữ liệu trích xuất từ log training của bạn (26 epochs)
+# 1. Dữ liệu trích xuất từ log training (26 epochs)
 epochs = np.arange(1, 27)
 
 train_acc = [0.4134, 0.4372, 0.4601, 0.4728, 0.4816, 0.5009, 0.5105, 0.5237, 0.5369, 0.5485,
@@ -51,4 +51,5 @@ lines2, labels2 = ax2.get_legend_handles_labels()
 ax2.legend(lines + lines2, labels + labels2, loc='upper left')
 
 fig.tight_layout()
+
 plt.show()
