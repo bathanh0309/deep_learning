@@ -1,6 +1,3 @@
-
-[cifar100_sunburst.html](https://github.com/user-attachments/files/22903266/cifar100_sunburst.html)
-
 [cifar100_3d_visualization.html](https://github.com/user-attachments/files/22903292/cifar100_3d_visualization.html)
 
 [cifar100_class_colors.csv](https://github.com/user-attachments/files/22903687/cifar100_class_colors.csv)
