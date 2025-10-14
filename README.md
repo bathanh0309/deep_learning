@@ -6,3 +6,4 @@
 
 ![3D_Cifar100_mini](https://github.com/user-attachments/assets/1ab1cd16-c3ba-4ec9-8cf4-94fe7c33772a) <img width="300" height="300" alt="CIFAR-100" src="https://github.com/user-attachments/assets/86cea3c5-d103-46a1-b1b3-ec0176280153" />
 
+[cifar100_class_colors.csv](https://github.com/user-attachments/files/22903687/cifar100_class_colors.csv)
