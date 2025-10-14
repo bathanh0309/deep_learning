@@ -4,7 +4,7 @@
 [cifar100_3d_visualization.html](https://github.com/user-attachments/files/22903292/cifar100_3d_visualization.html)
 
 
-![3D_Cifar100_mini](https://github.com/user-attachments/assets/1ab1cd16-c3ba-4ec9-8cf4-94fe7c33772a) <img width="400" height="400" alt="CIFAR-100" src="https://github.com/user-attachments/assets/86cea3c5-d103-46a1-b1b3-ec0176280153" />
+![3D_Cifar100_mini](https://github.com/user-attachments/assets/1ab1cd16-c3ba-4ec9-8cf4-94fe7c33772a) <img width="350" height="350" alt="CIFAR-100" src="https://github.com/user-attachments/assets/86cea3c5-d103-46a1-b1b3-ec0176280153" />
 
 
 https://github.com/user-attachments/assets/23809dc7-7ca1-49ea-baa7-b03327249b1e
