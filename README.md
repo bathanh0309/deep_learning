@@ -2,7 +2,7 @@ Loading ...
 
 Tạo môi trường ảo trong VS Code:
 ```bash
-python -m venv Deep-Learning_venv
+python -m venv deep_learning_CNN_venv
 ```
 
 [CIFAR 100 3D t-SNE Visualization](https://github.com/user-attachments/files/22903292/cifar100_3d_visualization.html)
